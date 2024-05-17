@@ -34,9 +34,6 @@ img {
   justify-content: center;
 }
 
-.one,
-.two,
-.three,
-.four {
-  flex-basis: 200px;
+.info {
+  max-width: 200px;
 }
